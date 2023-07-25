@@ -1,3 +1,0 @@
-/home/syien/C/raymuse/build/CMakeFiles/main.dir
-/home/syien/C/raymuse/build/CMakeFiles/edit_cache.dir
-/home/syien/C/raymuse/build/CMakeFiles/rebuild_cache.dir
